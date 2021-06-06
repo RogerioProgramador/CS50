@@ -1,3 +1,3 @@
 # Filter
 
-Implement a program that applies filters to BMPs,
+Implement a program that applies filters to BMPs.
